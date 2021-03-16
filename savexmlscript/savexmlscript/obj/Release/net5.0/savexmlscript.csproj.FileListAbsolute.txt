@@ -1,0 +1,16 @@
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\bin\Release\net5.0\savexmlscript.exe
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\bin\Release\net5.0\savexmlscript.deps.json
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\bin\Release\net5.0\savexmlscript.runtimeconfig.json
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\bin\Release\net5.0\savexmlscript.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\bin\Release\net5.0\savexmlscript.dll
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\bin\Release\net5.0\ref\savexmlscript.dll
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\bin\Release\net5.0\savexmlscript.pdb
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\obj\Release\net5.0\savexmlscript.csprojAssemblyReference.cache
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\obj\Release\net5.0\savexmlscript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\obj\Release\net5.0\savexmlscript.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\obj\Release\net5.0\savexmlscript.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\obj\Release\net5.0\savexmlscript.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\obj\Release\net5.0\savexmlscript.dll
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\obj\Release\net5.0\ref\savexmlscript.dll
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\obj\Release\net5.0\savexmlscript.pdb
+C:\Users\Usuário\source\repos\savexmlscript\savexmlscript\obj\Release\net5.0\savexmlscript.genruntimeconfig.cache
