@@ -30,7 +30,7 @@ namespace savexmlscript
 
     class class1
     {
-        static string path = @"C:\Users\Usuário\AppData\LocalLow\savestests\save.dat"; //local de armazenamento
+        static string path = @"C:\Users\Usuário\AppData\LocalLow\savestests\save.dat"; //local de armazenamento |(Application.persistentDataPath + "/save1.dat")| UNIY
         static void Main(string[] args)
         {
             Console.WriteLine("selecione 1 para salvar ou 2 para carregar");
